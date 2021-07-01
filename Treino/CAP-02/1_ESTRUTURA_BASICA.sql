@@ -1,0 +1,8 @@
+DECLARE
+
+BEGIN
+
+EXCEPTION
+
+END;
+
